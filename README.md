@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Array
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3701-compute-alternating-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
