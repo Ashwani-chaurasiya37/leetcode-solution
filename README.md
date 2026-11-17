@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0518-coin-change-ii](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2544-alternating-digit-sum) |
 ## Dynamic Programming
 |  |
