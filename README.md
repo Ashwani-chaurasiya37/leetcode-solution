@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2544-alternating-digit-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2544-alternating-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
