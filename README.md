@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/0518-coin-change-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Knapsack Problem
 |  |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
