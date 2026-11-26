@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2544-alternating-digit-sum) |
+| [3360-stone-removal-game](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
