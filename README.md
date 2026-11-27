@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3701-compute-alternating-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 | [3934-smallest-unique-subarray](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ashwani-chaurasiya37/leetcode-solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
